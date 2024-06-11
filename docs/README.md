@@ -14,3 +14,17 @@ b) Testes com Protocolo SpaceWire e Processador LEON3: O laboratório NSEE tamb�
 - [SPACE WIRE-LEON3](space_wire.md)
 - [Outro JTVEIA](another-doc.md)
 
+nsee-docs/
+├── docs/
+│   ├── README.md
+│   ├── veritas/
+│   │   ├── sparc/
+│   │   │   ├── documentation.md
+│   │   │   └── codes.md
+│   │   ├── space-wire/
+│   │   │   ├── documentation.md
+│   │   │   └── codes.md
+├── index.html
+├── sidebar.md
+
+
