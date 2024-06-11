@@ -13,9 +13,12 @@
       name: '',
       repo: '',
       loadSidebar: true,
-      loadNavbar: true,
-      basePath: '/nsee-docs/docs/', // Base path for the docs folder
-      subMaxLevel: 2, // Levels of headings to include in sidebar
+      subMaxLevel: 2,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      basePath: '/nsee-docs/docs/',
+      routerMode: 'history' // Adicione esta linha para ativar o History Mode
     };
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
