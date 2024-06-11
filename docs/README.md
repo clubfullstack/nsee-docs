@@ -1,6 +1,6 @@
 # Bem-vindo à Documentação de Teste Ambiente Virtual Veritas
 
-Esta é a página inicialmente tem por finalidade agrupar a documentação base dos testes realizados no laboratório NSEE para Virtualização  dos instrumentos VenSpec-M.
+Esta página inicialmente tem por finalidade agrupar a documentação base dos testes realizados no laboratório NSEE para Virtualização  dos instrumentos VenSpec-M.
 
 O laboratório NSEE utiliza uma estrutura baseada no código aberto Quick EMUlator (QEMU) para a virtualização de instrumentos aeroespaciais. 
 
@@ -12,5 +12,5 @@ b) Testes com Protocolo SpaceWire e Processador LEON3: O laboratório NSEE tamb�
 
 - [SPARC-LEON3](sparc.md)
 - [SPACE WIRE-LEON3](space_wire.md)
-- [Outro-JTVEIA]((another-doc.md)
+- [Outro JTVEIA](another-doc.md)
 
