@@ -2,7 +2,7 @@
 - Veritas
   - SPARC
     - [Documentação](docs/veritas/sparc/documentation.md)
-    - [Códigos](docs/veritas/sparc/codes.md)
+    - [Códigos](docs/veritas/sparc/code.md)
   - Space Wire
     - [Documentação](docs/veritas/space-wire/documentation.md)
-    - [Códigos](docs/veritas/space-wire/codes.md)
+    - [Códigos](docs/veritas/space-wire/code.md)
