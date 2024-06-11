@@ -1,8 +1,8 @@
 - [Home](/)
 - Veritas
   - SPARC
-    - [Documentação](veritas/sparc/documentation.md)
-    - [Códigos](veritas/sparc/codes.md)
+    - [Documentação](docs/veritas/sparc/documentation.md)
+    - [Códigos](docs/veritas/sparc/codes.md)
   - Space Wire
-    - [Documentação](veritas/space-wire/documentation.md)
-    - [Códigos](veritas/space-wire/codes.md)
+    - [Documentação](docs/veritas/space-wire/documentation.md)
+    - [Códigos](docs/veritas/space-wire/codes.md)
