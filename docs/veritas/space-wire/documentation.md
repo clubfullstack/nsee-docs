@@ -1,3 +1,3 @@
-# Guia
+# Documentação SPARC
 
-Aqui está um guia detalhado.
+Aqui está a documentação SPARC.
